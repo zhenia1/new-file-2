@@ -1,0 +1,5 @@
+D:\zhenya1\Task2\task2\bin\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+D:\zhenya1\Task2\task2\bin\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\zhenya1\Task2\task2\bin\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+D:\zhenya1\Task2\task2\bin\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+D:\zhenya1\Task2\task2\bin\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
